@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "inclusivemagic",
+    "name": "Inclusive Magic",
+    "description": "Makes the Magiclysm classes inclusive instead of mutually exclusive",
+    "category": "magical",
+    "authors": [ "Silvermistshadow" ],
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
